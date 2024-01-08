@@ -26,7 +26,4 @@ app.listen(process.env.PORT, () => {
   console.log(`Server is running on port ${process.env.PORT}`);
 });
 
-// "id": 1,
-// "name": "admin",
-// "email": "admin@gmail.com",
-// "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzA0NzExMTA3LCJleHAiOjE3MDQ3OTc1MDd9.qvV08we-i4yW64fHLiwAzfIJ3zTuBNZtdKo0Oh-FUe4"
+
